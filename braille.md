@@ -1,6 +1,7 @@
 ---
 author: Thanozz
 title: Braille terminal
+year: 
 image_url: /images/braille.jpg
 caption: 'Το τερματικό της γλώσσας Braille (braille terminal) είναι μια συσκευή που
 εμφανίζει τους χαρακτήρες της γλώσσας Braille, συνήθως με καρφίτσες με στρογγυλή
@@ -9,9 +10,8 @@ caption: 'Το τερματικό της γλώσσας Braille (braille termina
 του να διαβάσει το κείμενο. Με αυτό το τρόπο τα άτομα με προβλήματα όρασης, που δεν
 μπορούν να χρησιμοποιήσουν το μόνιτορ του υπολογιστή, διαβάζουν ένα κείμενο. Ακόμα
 μπορεί να χρησιμοποιηθεί για να γράψουν κείμενο.'
-license_text: https://en.wikipedia.org/wiki/Refreshable_braille_display
-image by Sebastien.delorme – Own work, CC BY-SA 3.0,
-https://commons.wikimedia.org/w/index.php?curid=9474490
+license_url: "https://en.wikipedia.org/wiki/Refreshable_braille_display"
+licence_text: Wikipedia
 categories:
 - Επεξεργασία κειμένου
 - Συσκευές Εισόδου - Εξόδου
