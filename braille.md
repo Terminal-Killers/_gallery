@@ -1,6 +1,6 @@
 ---
 author: Thanozz
-title: Braille terminal
+title: Τερματικ
 year: 
 image_url: /images/braille.jpg
 caption: ' Το τερματικό της γλώσσας Braille (braille terminal) είναι μια συσκευή που
