@@ -13,7 +13,3 @@ tags:
  - Amstrad CPC
  - Amstrad
 ---
-
-
-
-
