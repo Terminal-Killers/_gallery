@@ -2,7 +2,7 @@
 author: Greekforce1821
 title: ODROID-C4
 year: 2020
-image_url: /images/odroid_c4.jpg
+image_url: /images/odroid-c4.jpg
 caption: 'Το ODROID-C4 είναι η νέα γενιά μονής μητρικής υπολογιστικής η οποία είναι βασισμένη
 στην αρχιτεκτονική ARM 64bit υπολογιστών. Ο κύριος επεξεργαστής του ODROID-C4 είναι ένας τετραπύρηνος
 Cortex-A55 με την ολοκαίνουργια ενσωματωμένη κάρτα γραφικών Mali-G31 GPU. O A-55 τρέχει σε συχνότητα των
