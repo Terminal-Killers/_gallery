@@ -1,5 +1,5 @@
 ---
-author: stamathsp
+author: epidrome
 image_url: /images/github-contributions.png
 title: Συνεισφορές σε κοινό έργο στο Github 
 year: 2013
