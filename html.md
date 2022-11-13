@@ -1,6 +1,7 @@
 ---
 author: TheBond08
 title: Html Language
+year: 1989
 image_url: /images/html.jpg
 caption: 'Η html ή Hypertext Markup Language είναι μια γλώσσα σήμανσης (Markup language) που ορίζει τη δομή των ιστοσελίδων.
 Η HTML γράφεται υπό μορφή στοιχείων HTML τα οποία αποτελούνται από ετικέτες (tags), 
