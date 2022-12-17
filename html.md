@@ -7,9 +7,7 @@ caption: 'Η html ή Hypertext Markup Language είναι μια γλώσσα σ
 license_url: 'https://www.w3.org'
 license_text: 'https://www.w3.org'
 categories:
-  - Γλώσσες Προγραμματισμού
   - Προγραμματισμός
 tags:
  - Προγραμματισμός
- - Html Language
 ---
